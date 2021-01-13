@@ -1,2 +1,3 @@
 safe: true
-baseurl: "https://msmith.online/flutterPage/"
+# baseurl: "https://msmith.online/flutterPage/"
+source: "./flutterPage"
